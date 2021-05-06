@@ -1,4 +1,26 @@
-### Hi there 👋
+# ~ 🌳 Hello all, and thank you for visiting my github 🌳 ~
+
+## Cameron Zimmerman | Full Stack Software Engineer
+
+I love the exploration and the aspects of human nature that coding embody, I am currently learning Reveal.js, matter.js, and flask. I have the ability to make or break someone's day. I strive to firstly be kind to myself, so I can help others and bring them up. In each role I will or have had, I believe my tenacity and positivity are my most appreciated trait. Open on collabs on projects of all kinds! I am also seeking a full time Software Engineering position.
+
+## Learn some more about me personally ->
+
+🎮🕹games -> currently playing Super Smash Bros Ultimate! Let's talk about what you're playing
+
+🧗‍♂️ I also love rock climbing, there is nothing more satisfying
+
+🌄Being outdoors offers me peace, if you are an expert hiker please let me know. I'd love to learn from you and tackle larger hikes
+
+💑I am everyday trying to better my life for myself and my wonderful wife
+
+## Contact me ->
+
+twitter: @CameronZimmer20
+
+LinkedIn: https://www.linkedin.com/in/cameron-zimmerman/
+
+
 
 <!--
 **CameronZimmerman/CameronZimmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
