@@ -4,7 +4,7 @@
 
 I love the exploration and the aspects of human nature that coding embody, I am currently learning Reveal.js, matter.js, and flask. I have the ability to make or break someone's day. I strive to firstly be kind to myself, so I can help others and bring them up. In each role I will or have had, I believe my tenacity and positivity are my most appreciated trait. Open on collabs on projects of all kinds! I am also seeking a full time Software Engineering position.
 
-## Learn some more about me personally ->
+## Learn more about me ->
 
 🎮🕹games -> currently playing Super Smash Bros Ultimate! Let's talk about what you're playing
 
@@ -19,20 +19,3 @@ I love the exploration and the aspects of human nature that coding embody, I am 
 twitter: @CameronZimmer20
 
 LinkedIn: https://www.linkedin.com/in/cameron-zimmerman/
-
-
-
-<!--
-**CameronZimmerman/CameronZimmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
