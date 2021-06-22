@@ -1,10 +1,10 @@
-##🌳 Hello all, and thank you for visiting my github 🌳##
+##🌳 Hello all, and thank you for visiting my github 🌳
 
 ## Cameron Zimmerman | Full Stack Software Engineer
 
 I love the exploration and the aspects of human nature that coding embody, I am currently learning Reveal.js, matter.js, and flask. I have the ability to make or break someone's day. I strive to firstly be kind to myself, so I can help others and bring them up. In each role I will or have had, I believe my tenacity and positivity are my most appreciated trait. Open on collabs on projects of all kinds! I am also seeking a full time Software Engineering position.
 
-## Learn more about me ->
+## Learn more about me
 
 🎮🕹currently playing Super Smash Bros Ultimate! Let's talk about what you're playing
 
