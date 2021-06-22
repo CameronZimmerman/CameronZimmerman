@@ -1,4 +1,4 @@
-# ~ 🌳 Hello all, and thank you for visiting my github 🌳 ~
+#🌳 Hello all, and thank you for visiting my github 🌳
 
 ## Cameron Zimmerman | Full Stack Software Engineer
 
@@ -6,15 +6,15 @@ I love the exploration and the aspects of human nature that coding embody, I am 
 
 ## Learn more about me ->
 
-🎮🕹games -> currently playing Super Smash Bros Ultimate! Let's talk about what you're playing
+🎮🕹currently playing Super Smash Bros Ultimate! Let's talk about what you're playing
 
-🧗‍♂️ I also love rock climbing, there is nothing more satisfying
+🧗‍♂️ I love rock climbing
 
 🌄Being outdoors offers me peace, if you are an expert hiker please let me know. I'd love to learn from you and tackle larger hikes
 
 💑I am everyday trying to better my life for myself and my wonderful wife
 
-## Contact me ->
+## Contact me
 
 twitter: @CameronZimmer20
 
