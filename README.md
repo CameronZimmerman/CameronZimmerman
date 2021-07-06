@@ -2,7 +2,7 @@
 
 ## Cameron Zimmerman | Full Stack Software Engineer
 
-I love the exploration and the aspects of human nature that coding embody, I am currently learning Reveal.js, matter.js, and flask. I have the ability to make or break someone's day. I strive to firstly be kind to myself, so I can help others and bring them up. In each role I will or have had, I believe my tenacity and positivity are my most appreciated trait. Open on collabs on projects of all kinds! I am also seeking a full time Software Engineering position.
+I love the exploration and the aspects of human nature that coding embody, I am currently learning Next.js, .NET framework, and C#. I have the ability to make or break someone's day, so I bring my best self every day. I strive to firstly be kind, so I can help others and bring them up. In each role I will or have had, I believe my tenacity and positivity are my most appreciated trait. Open on collabs on projects of all kinds! I am also seeking a full time Software Engineering position.
 
 ## Learn more about me
 
@@ -10,9 +10,9 @@ I love the exploration and the aspects of human nature that coding embody, I am 
 
 🧗‍♂️ I love rock climbing
 
-🌄Being outdoors offers me peace, if you are an expert hiker please let me know. I'd love to learn from you and tackle larger hikes
+🌄 If you are an expert hiker please let me know. I'd love to learn from you and tackle larger hikes
 
-💑I am everyday trying to better my life for myself and my wonderful wife
+💑 I am trying to better my life for myself and my wonderful wife
 
 ## Contact me
 
