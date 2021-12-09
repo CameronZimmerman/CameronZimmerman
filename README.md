@@ -1,8 +1,8 @@
-# 🌳 Hello all, and thank you for visiting my github 🌳
+# Hello all, and thank you for visiting my github
 
 ## Cameron Zimmerman | Full Stack Software Engineer
 
-I love the exploration and the aspects of human nature that coding embody, I am currently learning Next.js, React Native, .NET framework, and C#. I have the ability to make or break someone's day, so I bring my best self every day. I strive to firstly be kind, so I can help others and bring them up. In each role I will or have had I believe my tenacity and positivity are my most appreciated trait. Open on collabs on projects of all kinds! I am also seeking a full time Software Engineering position.
+I love the exploration and aspects of human nature that coding embody, I am currently learning Next.js, React Native, .NET framework, and C#. I have the ability to make or break someone's day, so I bring my best self every day. I strive to firstly be kind, so I can help others and bring them up. In each role I will or have had I believe my tenacity and positivity are my most appreciated trait. Open on collabs on projects of all kinds! I am also seeking a full time Software Engineering position.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CameronZimmerman&show_icons=true&theme=dark)
 
